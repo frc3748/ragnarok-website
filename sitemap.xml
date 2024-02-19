@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on 18 February 2024 at 23:50 by All in One SEO v4.4.0.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://frc3748.github.io/ragnarok-website/default.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://frc3748.github.io/ragnarok-website/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-06-27T00:23:57+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://frc3748.github.io/ragnarok-website/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-02-14T21:42:07+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://frc3748.github.io/ragnarok-website/post-archive-sitemap.xml]]></loc>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://frc3748.github.io/ragnarok-website/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-06-27T00:27:17+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
