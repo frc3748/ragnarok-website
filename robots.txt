@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-
-Sitemap: https://frc3748.github.io/ragnarok-website/sitemap.xml
-Sitemap: https://frc3748.github.io/ragnarok-website/sitemap.rss
-
